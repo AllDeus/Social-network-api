@@ -15,3 +15,10 @@ USER
 
 - https://drive.google.com/file/d/1nNd9heR74eA0byA9LjRWukYZ1hgSLbSE/view
 
+
+#Tools 
+- MongoDB
+- Mongoose
+- Express
+- Node
+- Nodemon
