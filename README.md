@@ -2,7 +2,7 @@
 
 
 
-#Discription 
+ # Discription 
 
 - an API for a social network web application Built with Express, Mongoose, and MongoDB.
 
@@ -16,7 +16,7 @@ USER
 - https://drive.google.com/file/d/1nNd9heR74eA0byA9LjRWukYZ1hgSLbSE/view
 
 
-#Tools 
+# Tools 
 - MongoDB
 - Mongoose
 - Express
